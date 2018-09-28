@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: pyZZUF
+Version: 0.1
+Summary: Python implementation of zzuf mutator - little bit-flip atomic bomb
+Home-page: https://github.com/nezlooy/pyZZUF
+Author: @nezlooy
+Author-email: r.bazhin@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: fuzzer zzuf mutator
+Platform: POSIX
+Platform: Windows
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Testing
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)

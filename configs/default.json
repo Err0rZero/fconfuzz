@@ -1,0 +1,7 @@
+{
+  "host": "waftest.enmonster.com",
+  "port": 21,
+  "proto": "tcp",
+  "user":"anonymous",
+  "pass":"anonymous"
+}

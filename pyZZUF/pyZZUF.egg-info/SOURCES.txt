@@ -1,0 +1,8 @@
+README.md
+setup.py
+./__init__.py
+./pyZZUF.py
+pyZZUF.egg-info/PKG-INFO
+pyZZUF.egg-info/SOURCES.txt
+pyZZUF.egg-info/dependency_links.txt
+pyZZUF.egg-info/top_level.txt
