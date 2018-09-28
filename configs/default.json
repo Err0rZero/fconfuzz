@@ -1,5 +1,5 @@
 {
-  "host": "waftest.enmonster.com",
+  "host": "test.fuzz.com",
   "port": 21,
   "proto": "tcp",
   "user":"anonymous",
